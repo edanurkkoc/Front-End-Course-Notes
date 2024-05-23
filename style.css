@@ -1,0 +1,14 @@
+body{
+    background-color: brown;
+    opacity: 10;
+    background-image: url(https://qph.cf2.quoracdn.net/main-qimg-f2c8a5cff9c0fa8662c81a545cb5dc97-lq);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.font-bold{
+    color:black;
+    font-size: 100px;
+    font-style: italic;
+    width: 100vh;
+    height: 100vh;
+}
